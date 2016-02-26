@@ -52,7 +52,7 @@ def oct2(screen, x0, y0, x1, y1, color):
         if (d<0):
             x+=1
             d+=(2*A)
-        x+=1
+        y+=1
         d+=(2*B)
 
 #slope is less than -1
